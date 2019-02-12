@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true" buildAllGenerated="false">
+    <generated />
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f3536e68-a37e-4a72-935a-7aad317d83c1" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../C&amp;C++/啊哈！算法/ch1_sort/bubble.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../C&amp;C++/啊哈！算法/ch1_sort/bubble.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../C&amp;C++/啊哈！算法/ch1_sort/bucket_sort.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../C&amp;C++/啊哈！算法/ch1_sort/t.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../C&amp;C++/妙趣横生的算法(C语言实现)/ch2 常用的查找与排序方法/bubblesort.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../C&amp;C++/妙趣横生的算法(C语言实现)/ch2 常用的查找与排序方法/bubblesort.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../C&amp;C++/妙趣横生的算法(C语言实现)/ch2 常用的查找与排序方法/search and sort.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../C&amp;C++/妙趣横生的算法(C语言实现)/ch2 常用的查找与排序方法/selectsort.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../C&amp;C++/妙趣横生的算法(C语言实现)/ch5 数学趣题(一)/5_1.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../C&amp;C++/妙趣横生的算法(C语言实现)/ch5 数学趣题(一)/5_10.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../C&amp;C++/妙趣横生的算法(C语言实现)/ch5 数学趣题(一)/5_11.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../C&amp;C++/妙趣横生的算法(C语言实现)/ch5 数学趣题(一)/5_11.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../C&amp;C++/妙趣横生的算法(C语言实现)/ch5 数学趣题(一)/5_2.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../C&amp;C++/妙趣横生的算法(C语言实现)/ch5 数学趣题(一)/5_24.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../C&amp;C++/妙趣横生的算法(C语言实现)/ch5 数学趣题(一)/5_24.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../C&amp;C++/妙趣横生的算法(C语言实现)/ch5 数学趣题(一)/5_3.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../C&amp;C++/妙趣横生的算法(C语言实现)/ch5 数学趣题(一)/5_4.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../C&amp;C++/妙趣横生的算法(C语言实现)/ch5 数学趣题(一)/5_5.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../C&amp;C++/妙趣横生的算法(C语言实现)/ch5 数学趣题(一)/5_6.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../C&amp;C++/妙趣横生的算法(C语言实现)/ch5 数学趣题(一)/5_7.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../C&amp;C++/妙趣横生的算法(C语言实现)/ch5 数学趣题(一)/5_8.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../C&amp;C++/妙趣横生的算法(C语言实现)/ch5 数学趣题(一)/5_9.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../C&amp;C++/妙趣横生的算法(C语言实现)/ch6 数学趣题（二）/6_1.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../C&amp;C++/妙趣横生的算法(C语言实现)/ch6 数学趣题（二）/6_10.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../C&amp;C++/妙趣横生的算法(C语言实现)/ch6 数学趣题（二）/6_11.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../C&amp;C++/妙趣横生的算法(C语言实现)/ch6 数学趣题（二）/6_12.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../C&amp;C++/妙趣横生的算法(C语言实现)/ch6 数学趣题（二）/6_13.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../C&amp;C++/妙趣横生的算法(C语言实现)/ch6 数学趣题（二）/6_13.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../C&amp;C++/妙趣横生的算法(C语言实现)/ch6 数学趣题（二）/6_14.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../C&amp;C++/妙趣横生的算法(C语言实现)/ch6 数学趣题（二）/6_14.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../C&amp;C++/妙趣横生的算法(C语言实现)/ch6 数学趣题（二）/6_15.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../C&amp;C++/妙趣横生的算法(C语言实现)/ch6 数学趣题（二）/6_15.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../C&amp;C++/妙趣横生的算法(C语言实现)/ch6 数学趣题（二）/6_16.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../C&amp;C++/妙趣横生的算法(C语言实现)/ch6 数学趣题（二）/6_16.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../C&amp;C++/妙趣横生的算法(C语言实现)/ch6 数学趣题（二）/6_2.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../C&amp;C++/妙趣横生的算法(C语言实现)/ch6 数学趣题（二）/6_3.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../C&amp;C++/妙趣横生的算法(C语言实现)/ch6 数学趣题（二）/6_4.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../C&amp;C++/妙趣横生的算法(C语言实现)/ch6 数学趣题（二）/6_5.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../C&amp;C++/妙趣横生的算法(C语言实现)/ch6 数学趣题（二）/6_6.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../C&amp;C++/妙趣横生的算法(C语言实现)/ch6 数学趣题（二）/6_7.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../C&amp;C++/妙趣横生的算法(C语言实现)/ch6 数学趣题（二）/6_8.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../C&amp;C++/妙趣横生的算法(C语言实现)/ch6 数学趣题（二）/6_9.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../C&amp;C++/妙趣横生的算法(C语言实现)/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PAT乙级/Ability test/1002.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PAT乙级/Ability test/1006.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PAT乙级/Ability test/1007.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PAT乙级/Ability test/1008.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PAT乙级/Ability test/1010.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PAT乙级/Ability test/1011.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PAT乙级/Ability test/1012.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PAT乙级/Ability test/1013.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PAT乙级/Ability test/1014.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PAT乙级/Ability test/1015.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PAT乙级/Ability test/1016.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PAT乙级/Ability test/1017.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PAT乙级/Ability test/1018.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PAT乙级/Ability test/1019.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PAT乙级/Ability test/1020.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PAT乙级/Ability test/1021.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PAT乙级/Ability test/1022.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PAT乙级/Ability test/1023.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PAT乙级/Ability test/1026.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PAT乙级/Ability test/1028.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PAT乙级/Ability test/1029.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PAT乙级/Ability test/1031.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PAT乙级/Ability test/1032.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PAT乙级/Ability test/1033.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PAT乙级/Ability test/1036.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PAT乙级/Ability test/1037.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PAT乙级/Ability test/1038.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PAT乙级/Ability test/1039.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PAT乙级/Ability test/1055.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PAT乙级/Ability test/1055.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PAT乙级/Ability test/1066.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PAT乙级/Ability test/1069.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PAT乙级/Ability test/1070.cpp" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="121703436">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="cpp" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="ObjectiveC" value="3" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/the past/1002.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="76">
+              <caret line="4" column="10" lean-forward="true" selection-start-line="4" selection-start-column="10" selection-end-line="4" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/the past/1033.cpp">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/the past/1020.cpp">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="142" />
+    <option name="y" value="25" />
+    <option name="width" value="1750" />
+    <option name="height" value="1030" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="PAT-Basic Level" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PAT-Basic Level" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PAT-Basic Level" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PAT-Basic Level" type="462c0819:PsiDirectoryNode" />
+              <item name="the past" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f3536e68-a37e-4a72-935a-7aad317d83c1" name="Default Changelist" comment="" />
+      <created>1547342320427</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1547342320427</updated>
+      <workItem from="1547342322985" duration="51000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="51000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="114" y="20" width="1400" height="824" extended-state="0" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24962743" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/the past/1002.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="10" lean-forward="true" selection-start-line="4" selection-start-column="10" selection-end-line="4" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/the past/1033.cpp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/the past/1020.cpp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+  </component>
+</project>
