@@ -12,7 +12,7 @@
 | 1004 | [成绩排名](https://pintia.cn/problem-sets/994805260223102976/problems/994805321640296448) |      | [富强](https://github.com/huixiongyu/Algorithms/blob/master/PAT/PAT-Basic%20Level/CPP/1004.cpp) |  民主  |    文明    | 和谐 |
 | 1005 | [继续(3n+1)猜想](https://pintia.cn/problem-sets/994805260223102976/problems/994805320306507776) |      | [富强](https://github.com/huixiongyu/Algorithms/blob/master/PAT/PAT-Basic%20Level/CPP/1005.cpp) |  民主  |    文明    | 和谐 |
 | 1006 | [素数对猜想](https://pintia.cn/problem-sets/994805260223102976/problems/994805317546655744) |      | [富强](https://github.com/huixiongyu/Algorithms/blob/master/PAT/PAT-Basic%20Level/CPP/1006.cpp) |  民主  |    文明    | 和谐 |
-|      |                                                              |      |                                                              |        |            |      |
-|      |                                                              |      |                                                              |        |            |      |
+| 1007 | [素数对猜想](https://pintia.cn/problem-sets/994805260223102976/problems/994805317546655744) |      | [富强](https://github.com/huixiongyu/Algorithms/blob/master/PAT/PAT-Basic%20Level/CPP/1007.cpp) |  民主  |    文明    | 和谐 |
+| 1008 | [数组元素循环右移问题](https://pintia.cn/problem-sets/994805260223102976/problems/994805316250615808) |      |                             富强                             |  民主  |    文明    | 和谐 |
 |      |                                                              |      |                                                              |        |            |      |
 
