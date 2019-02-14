@@ -14,5 +14,5 @@
 | 1006 | [素数对猜想](https://pintia.cn/problem-sets/994805260223102976/problems/994805317546655744) |      | [富强](https://github.com/huixiongyu/Algorithms/blob/master/PAT/PAT-Basic%20Level/CPP/1006.cpp) |  民主  |    文明    | 和谐 |
 | 1007 | [素数对猜想](https://pintia.cn/problem-sets/994805260223102976/problems/994805317546655744) |      | [富强](https://github.com/huixiongyu/Algorithms/blob/master/PAT/PAT-Basic%20Level/CPP/1007.cpp) |  民主  |    文明    | 和谐 |
 | 1008 | [数组元素循环右移问题](https://pintia.cn/problem-sets/994805260223102976/problems/994805316250615808) |      | [富强](https://github.com/huixiongyu/Algorithms/blob/master/PAT/PAT-Basic%20Level/CPP/1008.cpp) |  民主  |    文明    | 和谐 |
-|      |                                                              |      |                                                              |        |            |      |
+| 1009 | [说反话](https://pintia.cn/problem-sets/994805260223102976/problems/994805314941992960) |      | [富强](https://github.com/huixiongyu/Algorithms/blob/master/PAT/PAT-Basic%20Level/CPP/1009.cpp) |  民主  |    文明    | 和谐 |
 
