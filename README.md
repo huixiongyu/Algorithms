@@ -5,3 +5,104 @@ Learning algorithms,most about data structure,OJ practice,and may add other type
 
 1. 输入指定个数的字符串，
 2. 数字转字符串： std::string::to_string
+3. npos的用法，头文件是#include\<cctype> ,容器中表示不存在的位置，比如s.find('a') != string::npos表示s中不存在a字母。
+4. `getline` 从输入流读取字符并将它们放进 string  ，比如getline(std::cin, s);
+5. 最大公约数：辗转相除法
+
+```
+int gcd(int x,int y){
+    int z=y;
+    while(x%y != 0)
+    {
+        z = x%y;
+        x = y;
+        y = z;
+    }
+    return z;
+}
+```
+
+举例来说：30和24，30%24=6, z=6,x=24,y=6--->  24%6=0  得出最大公约数是6
+
+以上简化可变成：
+
+```
+int gcd(int x,int y){
+    return y==0 ? x : gcd(y, x % y);
+}
+```
+
+6. 最小公倍数
+
+```
+int lcm(int m,int n){
+    int minMultiple = (m>n) ? m : n;
+    while(1){
+        if(minMultiple % m == 0 && minMultiple % n ==0 ){
+            return minMultiple;
+        }
+        ++minMultiple;
+    }
+}
+```
+
+
+
+
+
+## 需要了解的库
+
+### \<cctype>
+
+* isalnum  检查字符是否为字母或数字
+* isalpha    检查字符是否为字母
+* islower   检查字符是否为小写
+* isupper    检查字符是否为大写字符
+* isdigit    检查字符是否为数字
+* isxdigit   检查字符是否为十六进制字符
+* iscntrl   检查字符是否为控制字符
+* isgraph  检查字符是否为图形字符
+* isspace    检查字符是否为空白字符
+* isblank    检查字符是否为空格符
+* isprint   检查字符是否为打印字符
+* ispunct   检查字符是否为标点符
+* tolower    转换字符为小写
+* toupper   转换字符为大写   
+
+
+
+
+
+## 问题
+
+* 1033有一个测试点没有通过，估计是大写问题
+* 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
