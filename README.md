@@ -46,7 +46,12 @@ int lcm(int m,int n){
 }
 ```
 
-
+7. 四舍五入：
+   1. floor()  : 不大于自变量的最大整数
+   2. ceil()   :不小于自变量的最大整数
+   3. round()  : 四舍五入到最邻近的整数
+8. std::swap()用来交换两个数据
+9. 逻辑正确，但是运行超时，可能时数组太长，使用循环嵌套得不合适，还有使用了std::cin和std::cout.有时候改成scanf()和printf()可能就通过了
 
 
 
@@ -70,6 +75,10 @@ int lcm(int m,int n){
 * toupper   转换字符为大写   
 
 
+
+### \<algorithm>
+
+1. count()统计某个值的对象的个数，比如vector中统计数字19的个数count(v.begin(), v.end(), 19)
 
 
 
