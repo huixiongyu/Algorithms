@@ -86,10 +86,26 @@ int lcm(int m,int n){
 
 
 
+
+
+### \<string>
+
+1. 字符串截取， string::s.substr(position, lenght);
+2. append()
+   1. str.append(5, 'a') 末尾添加5个a
+   2. str.append(str2)  把str2加到str上
+   3. str.append(str2, 5,4) 把str2，从第6位开始的四位加到str上
+
+
+
+
+
 ## 问题
 
 * 1033有一个测试点没有通过，估计是大写问题
 * 1041段错误，但是按逻辑来说应当是没问题的！
+* 1044,逻辑正确，最后部分正确
+* 
 
 
 
