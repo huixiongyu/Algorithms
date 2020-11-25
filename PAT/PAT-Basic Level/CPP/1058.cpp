@@ -10,6 +10,7 @@ int main() {
     cin>>n>>m;
     vector<set<char>> solution(m); // 正确的答案列表
     vector<int> score(m), wrongCount(m); // 题号对应的分数和题号对应的错误人数
+    // 处理正确答案
     for(int i = 0; i < m; i++) {
         scanf("%d%d%d", &score[i], &p, &q);
         for(int j = 0; j < q; j++) {
@@ -17,6 +18,7 @@ int main() {
             solution[i].insert(c);
         }
     }
+    // 处理学生解答
     for(int i = 0; i < n; i++) {
         int counter = 0;
         scanf("\n");
