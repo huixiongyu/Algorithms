@@ -1,6 +1,9 @@
 # Algorithms
 Learning algorithms,most about data structure,OJ practice,and may add other types in the further.
 
+## vscode运行C++
+官方教程：[链接](https://code.visualstudio.com/docs/languages/cpp)
+
 ## 常见问题
 
 1. 输入指定个数的字符串，

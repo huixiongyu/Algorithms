@@ -10,7 +10,7 @@
             "args": [
                 "-o",
                 "main",
-                "PAT/PAT-Basic Level/CPP/1002.cpp",
+                "PAT/PAT-Basic Level/New/1002.cpp",
                 "-g",
                 "-v"
             ],
